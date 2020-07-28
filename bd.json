@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "nombre": "TORTA CHOCO-OREO",
+    "ingredientes": " Helado de vainilla con galleta oreo, helado de chocolate, toppings de galleta oreo, fudge de chocolate, nueces y crema chantilly",
+    "precio": 36000,
+    "imagen": "https://i.ibb.co/TtRktQ6/IMG-20200625-WA0039.jpg"
+  },
+  {
+    "id": 1,
+    "nombre": "TORTA PIE DE LIMÓN",
+    "ingredientes": "Helado de limón cremoso, helado de cheesecake, bizcochuelo de vainilla, salsa de crema de limón, uchuvas, kiwis, Chantilly y almendras",
+    "precio": 36000,
+    "imagen": "https://i.ibb.co/b1w7793/IMG-20200504-094554-045.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "TORTA FRUTOS ROJOS",
+    "ingredientes": "Bizcochuelo, helado de frutos rojos, Chantilly, fruta natural, salsa frutos rojos y almendras fileteadas",
+    "precio": 36000,
+    "imagen": "https://i.ibb.co/kMPP9c4/IMG-20200629-WA0012.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "TORTA FRUTOS AMARILLOS",
+    "ingredientes": "Helado yogurt de melocotón y naranja, helado de mango, bizcochuelo vainilla, toppings de uchuva, melocotón, salsa natural de frutos amarillos, pirulines, chantilly y almendras",
+    "precio": 36000,
+    "imagen": "https://i.ibb.co/3SzsRxk/Whats-App-Image-2020-07-28-at-3-22-03-PM.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "TORTA AREQUIPE CHEESCAKE",
+    "ingredientes": "Helado de arequipe, helado cheesecake, bizcochuelo, almendras, salsa de dulce de leche  y chantilly",
+    "precio": 36000,
+    "imagen": "https://i.ibb.co/QkrKvrY/IMG-20200603-WA0057.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "TORTA CHOCO MIX",
+    "ingredientes": "Bizcochuelo de chocolate, helado de chocolate y vainilla con todos los toppings chocolatosos: galletas oreo, brownie, pirulines, chocolates, nueces y chantilly",
+    "precio": 45000,
+    "imagen": "https://i.ibb.co/xXZv94x/IMG-20200709-174806.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "TORTA RON CROCANTINO",
+    "ingredientes": "Helado de chocolate, helado de ron crocantino, fudge de chocolate con licor, chantilly, nueces y toppings",
+    "precio": 36000,
+    "imagen": "https://i.ibb.co/MZsQSPf/Whats-App-Image-2020-07-28-at-3-24-29-PM.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "TORTA CHOCO BROWNIE",
+    "ingredientes": "Torta helado vainilla, helado chocolate con bizcochuelo de chocolate, toppings de brownie, chantilly, fudge de chocolate y nueces",
+    "precio": 36000,
+    "imagen": "https://i.ibb.co/RYbLYGJ/Whats-App-Image-2020-07-28-at-3-21-33-PM.jpg"
+  }
+]
